@@ -1,19 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using Systems.Text;
-using System.Threading.Tasks;
+﻿using System;
 
-
-namespace Dotnet
-class Program
+namespace hello_world
 {
-  static void Main(string[] args)
-  {
-     string name;
-     Console.WriteLine ("Hello World!");
-  
-  }
-
-  }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
 }
