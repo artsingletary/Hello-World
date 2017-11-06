@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artsi\\OneDrive\\code\\dotnet\\hello-world\\hello-world.csproj",
+      "projectUniqueName": "c:\\Users\\artsi\\OneDrive\\code\\dotnet\\hello-world\\hello-world.csproj",
       "projectName": "hello-world",
-      "projectPath": "C:\\Users\\artsi\\OneDrive\\code\\dotnet\\hello-world\\hello-world.csproj",
+      "projectPath": "c:\\Users\\artsi\\OneDrive\\code\\dotnet\\hello-world\\hello-world.csproj",
       "packagesPath": "C:\\Users\\artsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artsi\\OneDrive\\code\\dotnet\\hello-world\\obj\\",
+      "outputPath": "c:\\Users\\artsi\\OneDrive\\code\\dotnet\\hello-world\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
